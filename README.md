@@ -1,0 +1,1 @@
+Repositório contendo as avaliações e estudos relacionado a matéria de Grafos 2024.1 do Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE
